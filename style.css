@@ -1,0 +1,36 @@
+#header,#footer{
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+#menubar{
+  background-color: rgb(253, 10, 10);
+  text-align: center;
+
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+  padding:10px 0px 0px 0px;
+  
+  
+}
+ul li a{
+  text-decoration: none;
+  color:white;
+  margin-right:50px;
+ 
+  
+  
+}
+ul li a:hover{
+  background-color: white;
+  color:red;
+  font-weight: bold;
+}
+#content{
+  background-color: rgb(230, 246, 240);
+}
+#sidebar{
+  background-color: rgb(236, 225, 246);
+}
